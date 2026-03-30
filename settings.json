@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " DuelyNetwork.aternos.me:27121",
+    "ip": " ling.aternos.host:27121",
     "port": 27121,
     "version": "",
     "try-creative": false
